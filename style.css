@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    font-size: 60px;
+    background-color: darkseagreen;
+}
+
+body {
+    font-family: fantasy;
+    background-color: mediumpurple;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+img {
+    max-width:50%;
+    height:auto;
+    float: left;
+    padding: 20px;
+}
+
+.bio, .mint {
+    float: left;
+    padding: 0 20px 0 20px;
+}
